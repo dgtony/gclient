@@ -1,0 +1,15 @@
+*.h
+*.cc
+#*_pb2.py
+
+*.a
+*.o
+
+.DS_Store
+.idea
+*.tar.gz
+
+trash
+
+._*
+*.dat
