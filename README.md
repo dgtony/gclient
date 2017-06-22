@@ -1,9 +1,9 @@
-#GClient - client library for GCache
+# GClient - client library for GCache
 
 ## Description
 
-GClient is the native Go client library for the in-memory cache-storage server [GCache](https://github.com/dgtony/gcache).
-Library works over HTTP and supports all implemented GCache functionality.
+GClient is native client library for in-memory cache-storage server [GCache](https://github.com/dgtony/gcache).
+Library works over HTTP and fully supports current GCache functionality.
 
 
 ## Usage
